@@ -1,0 +1,11 @@
+{
+  "name": "amberjs-widgets",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "keywords": [],
+  "author": "Tirtha Ahmad Nazuha",
+  "license": "ISC",
+  "types": "./index.d.ts"
+}
